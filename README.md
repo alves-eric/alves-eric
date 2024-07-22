@@ -1,4 +1,4 @@
-### Olá, eu sou [Eric] 👋
+### Olá, eu sou Eric 👋
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na UNICID com um forte interesse em segurança da informação. Atualmente, estou me aprofundando em desenvolvimento de software e buscando oportunidades para aplicar e expandir meus conhecimentos.
 
