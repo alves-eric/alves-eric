@@ -10,7 +10,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na UNICID com um forte i
 
 #### Habilidades:
 - Linguagens: Java
-- Ferramentas e Tecnologias: AWS.
+- Ferramentas e Tecnologias: Amazon Web Service.
 
 #### Conecte-se comigo:
 [LinkedIn](https://www.linkedin.com/in/eric-de-farias-silva-258390285/) | [Instagram](https://www.instagram.com/alvesntc/)
