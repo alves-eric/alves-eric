@@ -6,7 +6,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na UNICID com um forte i
 - 🎓 Certificação: AWS Certified Cloud Practitioner.
 - 🎓 Educação: Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul Virtual.
 - 👯 Estou buscando colaborar em: Projetos iniciais de desenvolvimento e segurança da informação.
-- 📫 Como me encontrar: [ericalves.acad@gmail.com].
+- 📫 Como me encontrar: ericalves.acad@gmail.com.
 
 #### Habilidades:
 - Linguagens: Java
