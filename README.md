@@ -1,7 +1,5 @@
 ### Olá, eu sou Eric 👋
 
-[!Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/alves-eric)
-
 Sou estudante de Análise e Desenvolvimento de Sistemas na UNICID com um forte interesse em segurança da informação. Atualmente, estou me aprofundando em desenvolvimento de software e buscando oportunidades para aplicar e expandir meus conhecimentos.
 
 - 🌱 Atualmente estou aprendendo: Programação Java e Linux.
